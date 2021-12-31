@@ -1,1 +1,23 @@
 Pemilik file ini adalah Nanang Kurniawan
+0) git init
+1) git clone https://.... or git remote add origin https://....
+2) git add .
+3) git commit -m "....."
+4) git branch -M main
+5) git branch #untuk mengecek cabang
+6) git branch Login_Apliaksi #membuat cabang
+7) cd ..
+8) cd latihanSJK #masuk
+9) git rm Readme2.txt
+10) vim Readme3.txt
+11) cat Readme4.txt
+12) git checkout main
+13) git checkout ....
+14) git branch -d Login_Aplikasi #delete cabang
+15) git status
+16) git pull
+17) git push -u origin main
+18) mv nanang12.txt /home/username/Documents  #memindahkan file
+19) mv nanang12.txt nanangNK.txt #mengganti nama ke nanangNK
+20) mkdir, ls, rm, rmdir, chown(memindah kepemilikan), 
+chmod (permission membaca, menulis, menjalankan)
